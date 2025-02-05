@@ -24,7 +24,6 @@ module.exports = () => {
         template: './index.html',
         title: 'JATE'
       }),
-     
       
       new InjectManifest({
         swSrc: './src-sw.js',
